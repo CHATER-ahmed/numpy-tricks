@@ -1,0 +1,26 @@
+2.7s 1 [NbConvertApp] Converting notebook script.ipynb to html
+2.8s 2 [NbConvertApp] Executing notebook with kernel: python3
+7.3s 3 Data-type of the array's elements.
+
+Parameters
+----------
+None
+
+Returns
+-------
+d : numpy dtype object
+
+See Also
+--------
+numpy.dtype
+
+Examples
+--------
+>>> x
+array([[0, 1],
+       [2, 3]])
+>>> x.dtype
+dtype('int32')
+>>> type(x.dtype)
+<type 'numpy.dtype'>
+7.9s 4 [NbConvertApp] Writing 319926 bytes to __results__.html
